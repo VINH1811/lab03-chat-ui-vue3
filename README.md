@@ -7,7 +7,7 @@
 | **Họ tên** | Nguyễn Văn Vinh    |
 | **Mã sinh viên** | 1771020752         |
 | **Lớp** | CNTT17-13          |
-| **Link repository**| *(Sinh viên điền link GitHub/GitLab tại đây)* |
+| **Link repository**| https://github.com/VINH1811/lab03-chat-ui-vue3.git |
 | **Cách chạy Mock API** | `npm run mock-api` |
 | **Cách chạy Vue app** | `npm run dev`      |
 
