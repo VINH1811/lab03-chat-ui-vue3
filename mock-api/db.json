@@ -1,0 +1,85 @@
+{
+  "rooms": [
+    {
+      "id": "room-1",
+      "name": "Phòng chung (General)"
+    },
+    {
+      "id": "room-2",
+      "name": "Hỏi đáp Vue 3"
+    },
+    {
+      "id": "LRmU51ZCuCc",
+      "name": "he"
+    },
+    {
+      "id": "gye5DMMLKpo",
+      "name": "Phòng mới"
+    }
+  ],
+  "messages": [
+    {
+      "id": "1",
+      "roomId": "room-1",
+      "sender": "FIT4104 Bot",
+      "content": "Xin chào, đây là phòng chat chung!",
+      "createdAt": "2026-05-26T08:00:00.000Z",
+      "type": "bot"
+    },
+    {
+      "id": "JbVNcB5O0Sg",
+      "roomId": "LRmU51ZCuCc",
+      "sender": "FIT4104 Bot",
+      "content": "Bạn hãy mô tả chi tiết hơn được không?",
+      "createdAt": "2026-05-26T02:23:39.895Z",
+      "type": "bot"
+    },
+    {
+      "id": "rySqwYyzjXI",
+      "roomId": "gye5DMMLKpo",
+      "sender": "Bạn",
+      "content": "xin chào",
+      "createdAt": "2026-05-26T02:31:30.781Z",
+      "type": "user"
+    },
+    {
+      "id": "EZAn6WAOn-Q",
+      "roomId": "gye5DMMLKpo",
+      "sender": "FIT4104 Bot",
+      "content": "Mình đã nhận được thông tin. Đang xử lý...",
+      "createdAt": "2026-05-26T02:31:31.805Z",
+      "type": "bot"
+    },
+    {
+      "id": "WL6anIq3VdU",
+      "roomId": "gye5DMMLKpo",
+      "sender": "Bạn",
+      "content": "helo",
+      "createdAt": "2026-05-26T02:36:53.490Z",
+      "type": "user"
+    },
+    {
+      "id": "clxV18dSwaw",
+      "roomId": "gye5DMMLKpo",
+      "sender": "FIT4104 Bot",
+      "content": "Bạn hãy mô tả chi tiết hơn được không?",
+      "createdAt": "2026-05-26T02:36:54.513Z",
+      "type": "bot"
+    }
+  ],
+  "botReplies": [
+    {
+      "id": "1",
+      "content": "Mình đã nhận được thông tin. Đang xử lý..."
+    },
+    {
+      "id": "2",
+      "content": "Bạn hãy mô tả chi tiết hơn được không?"
+    },
+    {
+      "id": "3",
+      "content": "Tuyệt vời! Tính năng này hoạt động rất tốt."
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
